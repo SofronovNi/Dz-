@@ -1,0 +1,15 @@
+.
+├── cat1
+│   ├── cat2
+│   │   ├── cat3
+│   │   │   ├── cat6
+│   │   │   └── cat7
+│   │   └── cat5
+│   └── cat8
+├── ds
+├── file
+├── LR_Sofronov_#1
+├── LR_Sofronov_#2
+└── README.md
+
+7 directories, 5 files
