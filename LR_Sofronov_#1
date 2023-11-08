@@ -1,0 +1,9 @@
+man# vivod stranici rukovodstva
+info# vivod stranici rukovodstva v formate GNU texinfo
+echo# vivod textovoy stroki
+pwd# vivod tekushego rabotchego cataloga polzovatela
+date# Wed 08 Nov 2023 11:55:19 PM +05
+who# deb123   tty1         2023-11-08 22:22
+ls# vivod soderzhimogo kakogo libo catologa
+cat# vivod soderzhimogo failov
+
